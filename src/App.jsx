@@ -2,8 +2,8 @@ import React from 'react'
 import { Routes, Route } from 'react-router-dom'
 import Navbar from './components/Navbar.jsx'
 import Home from './Pages/Home.jsx'
-import Movies from './pages/Movies.jsx'
-import MovieDetail from './pages/MovieDetail.jsx'
+import Movies from './Pages/Movies.jsx'
+import MovieDetail from './Pages/MovieDetail.jsx'
 
 function App() {
   return (
